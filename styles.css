@@ -95,7 +95,7 @@ nav ul li a {
 
 /* Services Section */
 #services {
-    background: #f4f4f4;
+    background: lightcoral;
     padding: 60px 20px;
     text-align: center;
 }
@@ -110,7 +110,7 @@ nav ul li a {
     text-align: center;
 }
 #spacial {
-    padding: 60px 20px;
+    padding: 80px 40px;
     text-align: center;
 }
 
@@ -120,7 +120,7 @@ nav ul li a {
 }
 
 #spacial p {
-    max-width: 600px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
